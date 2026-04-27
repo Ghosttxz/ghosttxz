@@ -63,23 +63,8 @@
   
 </div>
 
-
-
 <div align="center">
-  
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghosttxz&theme=maroongold&show_icons=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Ghosttxz&theme=maroongold" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosttxz&layout=compact&theme=maroongold" height="150"/>
-</p>
-
-</div>
-
-
-<div align="center">
-
+	
 ## 💻 Tech Stack:
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
@@ -92,5 +77,18 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
 
+</div>
+
+</div>
+
+<div align="center">
+  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghosttxz&theme=maroongold&show_icons=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Ghosttxz&theme=maroongold" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosttxz&layout=compact&theme=maroongold" height="150"/>
+</p>
 
 </div>
