@@ -72,6 +72,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ghosttxz&theme=maroongold&show_icons=true" height="200"/>
   <img src="https://streak-stats.demolab.com/?user=Ghosttxz&theme=maroongold" height="200"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosttxz&layout=compact&theme=maroongold" height="200"/>
 </p>
 
