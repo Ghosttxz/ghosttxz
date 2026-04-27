@@ -3,24 +3,26 @@
 <img width="1655" height="950" alt="image" src="https://github.com/user-attachments/assets/317665ed-5469-4b28-ad2e-d1199983618c" />
 
 # Hello, World! I'm Piêtro ☕
+### Computer Science Student | Python Developer
+
 </div>
 
 ## 👨‍💻 About Me
 ![](https://komarev.com/ghpvc/?username=Ghosttxz&color=blue)
 
-🌟 Hi, my name is Piêtro. I’m 18 years old and I’m from Brazil.
+🌟 Computer Science student from Brazil, 18 years old.
 
-🔭 I’m a Computer Science student passionate about technology and software development.
+🔭 Passionate about technology and software development.
 
-⚙️ Currently, I’m focused on learning Python, building small programs, and improving my logical thinking and problem-solving skills. As a beginner, I’ve been developing simple scripts and practicing programming logic.
+⚙️ Currently focused on learning Python, building small projects, and improving problem-solving and logical thinking skills.
 
-🧠 I use tools like VS Code and PyCharm in my development workflow, and I’m also learning important fundamentals such as Git and GitHub.
+🧠 Using tools like VS Code and PyCharm, while learning core concepts such as Git and GitHub.
 
-☕ I plan to expand my knowledge by learning languages like Java, JavaScript, TypeScript, C, C++, and C#, aiming to build a strong and versatile foundation in software development.
+📚 Expanding my knowledge in technologies like JavaScript and TypeScript, and exploring languages such as C, C++, and Java.
 
-📒 Regarding languages, I am a native Portuguese speaker, I’m comfortable with Spanish, and I’m currently learning Japanese. I also have a good level of English, which I continue to improve.
+🌍 Native Portuguese speaker, comfortable with Spanish, and currently learning Japanese. I also have a good level of English.
 
-🚀 I’m committed to continuous learning, staying consistent, and improving every day. I enjoy challenges and see programming as a long-term journey of growth and evolution.
+🚀 Committed to continuous learning, consistency, and long-term growth in software development.
 
 <div align="right">
   
@@ -36,11 +38,25 @@
 
 </div>
 
-##
+---
+
+<div align="center">
+	
+## 💻 Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+
+</div>
 
 <div align="center">
 
-## 📚 Languages & tools I Have placed My Hands on
+
+## 📚 Technologies I’m Learning and Improving
 
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -63,25 +79,15 @@
   
 </div>
 
-<div align="center">
-	
-## 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
+## 🎯 Goals
 
-</div>
-
-</div>
+- Become a software developer
+- Build real-world projects
+- Improve problem-solving skills
 
 <div align="center">
+
   
 ## 📊 GitHub Stats
 
