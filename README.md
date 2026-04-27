@@ -69,9 +69,14 @@
   
 ## 📊 GitHub Stats
 
-![Ghosttxz's Stats](https://github-readme-stats.vercel.app/api?username=Ghosttxz&theme=maroongold&show_icons=true&hide_border=false&count_private=true)
-![Ghosttxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghosttxz&theme=maroongold&hide_border=false)
-![Ghosttxz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosttxz&theme=maroongold&show_icons=true&hide_border=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghosttxz&theme=maroongold&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghosttxz&theme=maroongold)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosttxz&layout=compact&theme=maroongold)
 
 </div>
 
