@@ -55,7 +55,6 @@
 
 <div align="center">
 
-
 ## 📚 Technologies I’m Learning and Improving
 
 <div align="center">
@@ -84,11 +83,17 @@
 
 </div>
 
+<div align="center">
+
 ## 🎯 Goals
 
-- Become a software developer
-- Build real-world projects
-- Improve problem-solving skills
+**Become a software developer**
+
+**Build real-world projects**
+
+**Improve problem-solving skills**
+
+</div>
 
 <div align="center">
 
