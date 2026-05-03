@@ -85,13 +85,17 @@
 
 <div align="center">
 
-## 🎯 Goals
+## 🎯 Development Goals
 
-**Become a software developer**
+**Become a software developer focused on building practical solutions**
 
-**Build real-world projects**
+**Develop real-world projects using Python and problem-solving skills**
 
-**Improve problem-solving skills**
+**Improve code structure, readability, and programming best practices**
+
+**Strengthen logical thinking through consistent practice**
+
+**Build a solid portfolio for internship opportunities**
 
 </div>
 
